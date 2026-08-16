@@ -41,8 +41,7 @@ Actualmente el repositorio incluye métodos y aplicaciones relacionados con:
 | 09 | [Modelos no lineales](notebooks/09-modelos-no-lineales.ipynb) | Análisis de relaciones no lineales mediante transformaciones de variables, ajuste lineal y comparación utilizando el coeficiente de determinación \(R^2\). |
 | 10 | [Series de Taylor](notebooks/10-series-taylor.ipynb) | Construcción de polinomios de Taylor, análisis del error de aproximación y aplicaciones para aproximar funciones, derivadas e integrales. |
 | 11 | [Método de Euler para EDO](notebooks/11-metodo-euler-edo.ipynb) | Solución numérica de ecuaciones diferenciales ordinarias y sistemas dinámicos mediante Euler, incluyendo modelos de propagación y presa-depredador. |
-| 12 | [Método de Newton-Raphson](notebooks/12-metodo-newton.ipynb) | Implementación y documentación del método iterativo de Newton-Raphson para aproximar raíces utilizando derivadas y una estimación inicial. |
-| 13 | [Aplicaciones de Análisis Numérico](notebooks/13-aplicaciones-analisis-numerico.ipynb) | Colección de talleres y problemas aplicados que integran diferentes métodos numéricos en contextos matemáticos, físicos y de modelación. |
+| 12 | [Aplicaciones de Análisis Numérico](notebooks/13-aplicaciones-analisis-numerico.ipynb) | Colección de talleres y problemas aplicados que integran diferentes métodos numéricos en contextos matemáticos, físicos y de modelación. |
 
 ---
 
