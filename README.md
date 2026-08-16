@@ -62,8 +62,7 @@ analisis-numerico-python/
 │   ├── 09-modelos-no-lineales.ipynb
 │   ├── 10-series-taylor.ipynb
 │   ├── 11-metodo-euler-edo.ipynb
-│   ├── 12-metodo-newton.ipynb
-│   └── 13-aplicaciones-analisis-numerico.ipynb
+│   └── 12-aplicaciones-analisis-numerico.ipynb
 │
 ├── .gitignore
 └── README.md
